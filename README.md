@@ -2,4 +2,4 @@
 
 ## Zuri Simple JS calc 
 
-### Link to live site: https://samuelajala01.github.io/zuri_js_calc/
+### Link to live site: https://kick.my.id/zuri-js-calc/
